@@ -1,0 +1,20 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/hinh-nen-4k.jpg);
+  height: 400px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/hinh-nen-win-10-4k-tuyet-dep.jpg);
+  height: 400px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(img/Hinh-nen-toi-gian.jpg);
+  height: 400px;
+}
